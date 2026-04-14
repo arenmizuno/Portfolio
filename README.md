@@ -15,7 +15,7 @@ This portfolio is a compilation of data science and data analysis projects I hav
 ### Coursework Projects
 - **DATA 25900** – Ethics, Fairness, Responsibility, and Privacy in Data Science  
 - **DATA 22100** – Introduction to Machine Learning  
-- **BUSN 20550** – Application Development  
+- [**BUSN 20550** – Application Development](https://github.com/arenmizuno/BUSN-20550)   
 - **ADSP 31013** – Big Data and Cloud Computing  
 - **ADSP 31006** – Time Series Analysis and Forecasting  
 - **ADSP 31017** – Machine Learning I  

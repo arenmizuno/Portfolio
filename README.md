@@ -8,7 +8,7 @@ This portfolio is a compilation of data science and data analysis projects I hav
 
 ### Individual Projects
 - **Resy Reservation Bot**  
-  Automated reservation system using Selenium with scheduling and notification features.
+Automated reservation system using Selenium with scheduling and notification features.
 
 ---
 

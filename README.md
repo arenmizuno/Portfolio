@@ -19,7 +19,9 @@ This portfolio is a compilation of data science and data analysis projects I hav
 
 Built a full-stack web application using Ruby on Rails, developing a Guess Who-style game with user authentication, database-driven character management, and interactive gameplay. The course emphasized modern software development workflows, including version control, debugging, and deploying functional applications.  
 - **ADSP 31013** – Big Data and Cloud Computing  
-- **ADSP 31006** – Time Series Analysis and Forecasting  
+- [**ADSP 31006** – Time Series Analysis and Forecasting](https://github.com/arenmizuno/ADSP-31006-forecasting-bitcoin)
+
+Built a time series forecasting project analyzing Bitcoin prices using statistical models such as SARIMA, VAR, GARCH, and BSTS. Incorporated financial and macroeconomic data, performed stationarity transformations and model evaluation, and compared forecasting performance to identify key drivers and limitations.
 - **ADSP 31017** – Machine Learning I  
 - **ADSP 32018** – Next-Gen NLP: Transformers, LLMs, and Agentic AI in Practice  
 

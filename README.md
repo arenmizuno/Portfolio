@@ -22,7 +22,9 @@ Built a full-stack web application using Ruby on Rails, developing a Guess Who-s
 - [**ADSP 31006** – Time Series Analysis and Forecasting](https://github.com/arenmizuno/ADSP-31006-forecasting-bitcoin)
 
 Built a time series forecasting project analyzing Bitcoin prices using statistical models such as SARIMA, VAR, GARCH, and BSTS. Incorporated financial and macroeconomic data, performed stationarity transformations and model evaluation, and compared forecasting performance to identify key drivers and limitations.
-- **ADSP 31017** – Machine Learning I  
+- [**ADSP 31017** – Machine Learning I](https://github.com/arenmizuno/ADSP-31017-final-project)
+
+Built a machine learning project predicting shipment delivery delays using models such as Linear Regression, Random Forest, Gradient Boosting, and SVR. Applied feature engineering, data preprocessing, and cross-validation, and evaluated model performance to identify key drivers of delays and operational insights.
 - **ADSP 32018** – Next-Gen NLP: Transformers, LLMs, and Agentic AI in Practice  
 
 ---

@@ -16,6 +16,7 @@ This portfolio is a compilation of data science and data analysis projects I hav
 - **DATA 25900** – Ethics, Fairness, Responsibility, and Privacy in Data Science  
 - **DATA 22100** – Introduction to Machine Learning  
 - [**BUSN 20550** – Application Development](https://github.com/arenmizuno/BUSN-20550)
+
 Built a full-stack web application using Ruby on Rails, developing a Guess Who-style game with user authentication, database-driven character management, and interactive gameplay. The course emphasized modern software development workflows, including version control, debugging, and deploying functional applications.  
 - **ADSP 31013** – Big Data and Cloud Computing  
 - **ADSP 31006** – Time Series Analysis and Forecasting  

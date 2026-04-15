@@ -25,7 +25,9 @@ Built a time series forecasting project analyzing Bitcoin prices using statistic
 - [**ADSP 31017** – Machine Learning I](https://github.com/arenmizuno/ADSP-31017-final-project)
 
 Built a machine learning project predicting shipment delivery delays using models such as Linear Regression, Random Forest, Gradient Boosting, and SVR. Applied feature engineering, data preprocessing, and cross-validation, and evaluated model performance to identify key drivers of delays and operational insights.
-- **ADSP 32018** – Next-Gen NLP: Transformers, LLMs, and Agentic AI in Practice  
+- [**ADSP 32018** – Next-Gen NLP: Transformers, LLMs, and Agentic AI in Practice] (https://github.com/arenmizuno/ADSP-32018-NLP_AI_Article_Analysis)
+
+Built an end-to-end natural language processing project analyzing ~200,000 AI-related news articles using techniques such as BERTopic, LDA, NMF, spaCy-based named entity recognition, and transformer-based sentiment analysis (DistilRoBERTa). Applied data cleaning, text preprocessing, and feature engineering, and implemented aspect-based sentiment analysis (ABSA) to evaluate how companies and technologies are discussed across industries, identifying key trends and sentiment patterns in AI adoption.
 
 ---
 

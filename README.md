@@ -18,7 +18,9 @@ Automated reservation system using Selenium with scheduling and notification fea
 - [**BUSN 20550** – Application Development](https://github.com/arenmizuno/BUSN-20550)
 
 Built a full-stack web application using Ruby on Rails, developing a Guess Who-style game with user authentication, database-driven character management, and interactive gameplay. The course emphasized modern software development workflows, including version control, debugging, and deploying functional applications.  
-- **ADSP 31013** – Big Data and Cloud Computing
+- [**ADSP 31013** – Big Data and Cloud Computing](https://github.com/arenmizuno/ADSP-31013-Amazon-Review-Fraud-Detection)
+
+Built a big data analysis project detecting AI-driven fraudulent Amazon reviews using similarity techniques such as MinHash and Jaccard distance. Processed 60M+ reviews, applied large-scale data cleaning and distributed data processing, and analyzed duplication patterns to identify suspicious review behavior. The project emphasized big data workflows, including scalable data handling, pipeline debugging, and managing version control constraints.
 - [**ADSP 31014** – Statistical Models for Data Science](https://github.com/arenmizuno/ADSP-31014-Heart-Disease-Predictor)
 
 Built a machine learning project predicting shipment delivery delays using models such as Linear Regression, Ridge/Lasso/Elastic Net, Random Forest, Gradient Boosting, and SVR. Applied data preprocessing, feature engineering, and cross-validation, and evaluated model performance to identify key drivers of delays and quantify operational and financial impact.

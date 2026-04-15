@@ -19,7 +19,9 @@ Automated reservation system using Selenium with scheduling and notification fea
 
 Built a full-stack web application using Ruby on Rails, developing a Guess Who-style game with user authentication, database-driven character management, and interactive gameplay. The course emphasized modern software development workflows, including version control, debugging, and deploying functional applications.  
 - **ADSP 31013** – Big Data and Cloud Computing
-- **ADSP 31014** – Statistical Models for Data Science 
+- [**ADSP 31014** – Statistical Models for Data Science](https://github.com/arenmizuno/ADSP-31014-Heart-Disease-Predictor)
+
+Built a machine learning project predicting shipment delivery delays using models such as Linear Regression, Ridge/Lasso/Elastic Net, Random Forest, Gradient Boosting, and SVR. Applied data preprocessing, feature engineering, and cross-validation, and evaluated model performance to identify key drivers of delays and quantify operational and financial impact.
 - [**ADSP 31006** – Time Series Analysis and Forecasting](https://github.com/arenmizuno/ADSP-31006-forecasting-bitcoin)
 
 Built a time series forecasting project analyzing Bitcoin prices using statistical models such as SARIMA, VAR, GARCH, and BSTS. Incorporated financial and macroeconomic data, performed stationarity transformations and model evaluation, and compared forecasting performance to identify key drivers and limitations.

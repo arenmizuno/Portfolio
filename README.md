@@ -7,8 +7,10 @@ This portfolio is a compilation of data science and data analysis projects I hav
 ## Projects
 
 ### Individual Projects
-- **Resy Reservation Bot**  
-Automated reservation system using Selenium with scheduling and notification features.
+
+- [**Resy Reservation Bot**](https://github.com/arenmizuno/resy_bot)
+
+I built a Python-based automation tool that books restaurant reservations on Resy by simulating the full user flow with Selenium. The bot logs into my account, navigates to a restaurant page, selects a date, number of guests, and preferred time slots, and completes the reservation process, including handling pop-ups, dynamic page elements, and confirmation steps. I added a command-line interface to easily customize inputs, used environment variables to securely manage credentials, and integrated email alerts to notify me of success or failure. I also set it up to run at specific times using cron so it can automatically attempt bookings right when reservations open.
 
 ---
 
